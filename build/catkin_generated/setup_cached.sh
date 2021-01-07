@@ -7,7 +7,5 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/daisuke/Pictures/ROS_Practice/devel:$CMAKE_PREFIX_PATH"
 export PWD='/home/daisuke/Pictures/ROS_Practice/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/daisuke/Pictures/ROS_Practice/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/daisuke/Pictures/ROS_Practice/src:$ROS_PACKAGE_PATH"
+export PYTHONPATH="/home/daisuke/Pictures/ROS_Practice/devel/lib/python2.7/dist-packages:$PYTHONPATH"

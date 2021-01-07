@@ -1,2 +1,2 @@
-
+my_robot_first:my_robot_msgs
 -DCATKIN_DEVEL_PREFIX=/home/daisuke/Pictures/ROS_Practice/devel -DCMAKE_INSTALL_PREFIX=/home/daisuke/Pictures/ROS_Practice/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/daisuke/Pictures/ROS_Practice/install
+
+Name: ros_action
+Description: Description of ros_action
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

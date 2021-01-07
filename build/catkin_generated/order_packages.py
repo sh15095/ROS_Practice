@@ -2,4 +2,4 @@
 source_root_dir = '/home/daisuke/Pictures/ROS_Practice/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/opt/ros/melodic'.split(';') if '/opt/ros/melodic' != '' else []
+underlay_workspaces = '/home/daisuke/Pictures/ROS_Practice/devel;/opt/ros/melodic'.split(';') if '/home/daisuke/Pictures/ROS_Practice/devel;/opt/ros/melodic' != '' else []
