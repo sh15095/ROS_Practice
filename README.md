@@ -1,1 +1,1 @@
-Practicing ROS Actions and ROS Services on SLAM, Navigation and more. 
+Practicing ROS Action and ROS Services on SLAM, Navigation and more. 
