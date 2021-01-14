@@ -7,7 +7,7 @@ class CountUntilClient:
     def __init__(self):
         self._ac = actionlib.SimpleActionClient('/count_until', CountUntilAction)
         self._ac.wait_for_server()
-        rospy.loginfo('Simple Action Client is ready to interact with the server')
+        rospy.loginfo('Simple Action Client is ready to interact with the server and hence the new branch is created for testing and merging pull requests')
 
     def send_goal_get_result(self):
         goal = CountUntilGoal(count_untill = 3, wait_untill=0.9)
